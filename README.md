@@ -1,4 +1,4 @@
-![Pricing Component With Toggle](https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor/blob/main/images/project-preview.png?raw=true)
+![Pricing Component With Toggle](https://github.com/simphiwe24/pricing-component-with-toggle-frontendmentor/blob/main/images/project-preview.png)
 
 ## About The Project
 
