@@ -1,18 +1,3 @@
-![Pricing Component With Toggle](https://github.com/catherineisonline/pricing-component-with-toggle-frontendmentor/blob/main/images/project-preview.png?raw=true)
-
-
-<h1 align="center">Pricing Component With Toggle</h1>
-
-<div align="center">
-
-[Live](https://catherineisonline.github.io/pricing-component-with-toggle-frontendmentor/)
-| [Solution](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-IUaYc_2FA)
-| [Challenge](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
-
-Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/challenges/pricing-component-with-toggle-8vPwRMIC)
-
-</div>
-
 
 ## About The Project
 
